@@ -1,3 +1,6 @@
+# IMPORTANT NOTE #
+This repository has been forked from https://github.com/OHDSI/MIMIC. This was done so that we can keep track of changes made which are specific to building the data that MIT is contributing to CHoRUS. 
+
 # MIMIC IV to OMOP CDM Conversion #
 
 (Demo data link:  https://doi.org/10.13026/p1f5-7x35)
